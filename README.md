@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 이경민 | Backend Developer
 
 ### 사용자의 불편을 기술로 해결하는 백엔드 개발자
-<a href="https://velog.io/@rudals1027/posts"> <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"> </a> <a href="mailto:이메일 주소"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"> </a>
+<a href="https://velog.io/@rudals1027/posts"> <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"> </a> <a href="mailto:lkm031027@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"> </a>
 
 <br>
 
