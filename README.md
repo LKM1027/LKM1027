@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fefba9,100:bdfbff&height=180" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fefba9,100:bdfbff&height=180&text=KyeongMin%27s%20GitHub&fontColor=ffffff&fontSize=50" />
 
-
-# 이경민 | Backend Developer
-
-### 사용자의 불편을 기술로 해결하는 백엔드 개발자
 <a href="https://velog.io/@rudals1027/posts"> <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"> </a> <a href="mailto:lkm031027@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"> </a>
 </div>
 <br>
@@ -59,14 +56,32 @@ Here are some ideas to get you started:
 - 병해충 예찰 지도와 거래처 우선순위 산정 기능 구현
 - BEYOND SW Camp 최종 프로젝트 5팀 중 1위
 
+`Java` `Spring Boot` `JPA` `QueryDSL` `MariaDB` `Redis`
+
+<br>
+
 ### LangriFarm
 
 안전한 스마트팜 제어를 위한 LangGraph 기반 AI Agent
 
 - 센서 조회와 RAG 검색을 연결한 상태 그래프 설계
-- 지원 작물 및 제어 명령을 검증하는 2단계 Guardrail 구현
-- 허용 범위를 벗어난 제어 명령 차단
+- 지원 작물과 생성된 제어 명령을 검증하는 2단계 Guardrail 구현
+- 장치, 동작 및 물리적 허용 범위를 벗어난 제어 명령 차단
 
+`Python` `FastAPI` `LangGraph` `RAG` `Gemini API`
+
+<br>
+
+### AI Feed Generator
+
+지역 공방의 홍보 콘텐츠 제작을 돕는 AI 기반 피드 생성 서비스
+
+- 공방과 상품 사진을 활용한 홍보용 배경 이미지 및 캡션 생성
+- Python과 FastAPI 기반 백엔드 API 구현
+- LangGraph와 Gemini API를 활용한 콘텐츠 생성 흐름 구성
+- 로커톤 7인 팀 프로젝트에서 개발 파트 2인으로 참여
+
+`Python` `FastAPI` `LangGraph` `Gemini API` `Tailwind CSS`
 
 
     
