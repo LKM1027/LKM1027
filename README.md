@@ -20,10 +20,7 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
-
-
-
-
+<a href="https://velog.io/@rudals1027/posts"> <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"> </a> <a href="mailto:이메일 주소"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"> </a>
 
 <br>
 
